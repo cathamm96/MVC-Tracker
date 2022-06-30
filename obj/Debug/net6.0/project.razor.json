@@ -1,5 +1,5 @@
 {
-  "FilePath": "/Users/cathamm/MVCmovietracker/MVCmovietracker.csproj",
+  "FilePath": "/Users/cathamm/Desktop/MVCmovietracker/MVCmovietracker.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -16298,88 +16298,88 @@
   "RootNamespace": "MVCmovietracker",
   "Documents": [
     {
-      "FilePath": "/Users/cathamm/MVCmovietracker/Views/Home/Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/cathamm/MVCmovietracker/Views/_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/cathamm/MVCmovietracker/Views/Movies/Edit.cshtml",
-      "TargetPath": "Views\\Movies\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/cathamm/MVCmovietracker/Views/Shared/Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/cathamm/MVCmovietracker/Views/_ViewStart.cshtml",
+      "FilePath": "/Users/cathamm/Desktop/MVCmovietracker/Views/_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/cathamm/MVCmovietracker/Views/Watched/Create.cshtml",
-      "TargetPath": "Views\\Watched\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/cathamm/MVCmovietracker/Views/Watched/Edit.cshtml",
-      "TargetPath": "Views\\Watched\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/cathamm/MVCmovietracker/Views/Home/Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/cathamm/MVCmovietracker/Views/Watched/Delete.cshtml",
+      "FilePath": "/Users/cathamm/Desktop/MVCmovietracker/Views/Watched/Delete.cshtml",
       "TargetPath": "Views\\Watched\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/cathamm/MVCmovietracker/Views/Shared/_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FilePath": "/Users/cathamm/Desktop/MVCmovietracker/Views/Movies/Edit.cshtml",
+      "TargetPath": "Views\\Movies\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/cathamm/MVCmovietracker/Views/Watched/Index.cshtml",
-      "TargetPath": "Views\\Watched\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/cathamm/MVCmovietracker/Views/Movies/Delete.cshtml",
+      "FilePath": "/Users/cathamm/Desktop/MVCmovietracker/Views/Movies/Delete.cshtml",
       "TargetPath": "Views\\Movies\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/cathamm/MVCmovietracker/Views/Movies/Create.cshtml",
-      "TargetPath": "Views\\Movies\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/cathamm/MVCmovietracker/Views/Movies/Details.cshtml",
+      "FilePath": "/Users/cathamm/Desktop/MVCmovietracker/Views/Movies/Details.cshtml",
       "TargetPath": "Views\\Movies\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/cathamm/MVCmovietracker/Views/Watched/Details.cshtml",
-      "TargetPath": "Views\\Watched\\Details.cshtml",
+      "FilePath": "/Users/cathamm/Desktop/MVCmovietracker/Views/Watched/Index.cshtml",
+      "TargetPath": "Views\\Watched\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/cathamm/MVCmovietracker/Views/Movies/Index.cshtml",
+      "FilePath": "/Users/cathamm/Desktop/MVCmovietracker/Views/Shared/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/cathamm/Desktop/MVCmovietracker/Views/Movies/Index.cshtml",
       "TargetPath": "Views\\Movies\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/cathamm/MVCmovietracker/Views/Shared/_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "/Users/cathamm/Desktop/MVCmovietracker/Views/Movies/Create.cshtml",
+      "TargetPath": "Views\\Movies\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/cathamm/Desktop/MVCmovietracker/Views/Shared/_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/cathamm/Desktop/MVCmovietracker/Views/Shared/Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/cathamm/Desktop/MVCmovietracker/Views/Watched/Details.cshtml",
+      "TargetPath": "Views\\Watched\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/cathamm/Desktop/MVCmovietracker/Views/Watched/Edit.cshtml",
+      "TargetPath": "Views\\Watched\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/cathamm/Desktop/MVCmovietracker/Views/_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/cathamm/Desktop/MVCmovietracker/Views/Watched/Create.cshtml",
+      "TargetPath": "Views\\Watched\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/cathamm/Desktop/MVCmovietracker/Views/Home/Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/cathamm/Desktop/MVCmovietracker/Views/Home/Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],
