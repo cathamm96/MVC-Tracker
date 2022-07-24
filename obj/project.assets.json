@@ -9832,11 +9832,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/cathamm/MVCmovietracker/MVCmovietracker.csproj",
+      "projectUniqueName": "/Users/cathamm/Desktop/MVCmovietracker/MVCmovietracker.csproj",
       "projectName": "MVCmovietracker",
-      "projectPath": "/Users/cathamm/MVCmovietracker/MVCmovietracker.csproj",
+      "projectPath": "/Users/cathamm/Desktop/MVCmovietracker/MVCmovietracker.csproj",
       "packagesPath": "/Users/cathamm/.nuget/packages/",
-      "outputPath": "/Users/cathamm/MVCmovietracker/obj/",
+      "outputPath": "/Users/cathamm/Desktop/MVCmovietracker/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/cathamm/.nuget/NuGet/NuGet.Config"

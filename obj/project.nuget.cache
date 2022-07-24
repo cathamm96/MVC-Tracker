@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OKWvwRZ/i7+7ANIQpchmqPElx4BpYCW+kr4jpIFLnCsj6pXf//n9WB/nkR1cjSa/tF384Dw8Iz5ncXjXpPnrog==",
+  "dgSpecHash": "JRQcbQU//Op+Z3ygZGjKkJ6eye0eed5HIN/nNNbDeIjP6usSAIt2p9JC6jZMzMrShC/zPdfG9vEgfkh9FhBbVg==",
   "success": true,
-  "projectFilePath": "/Users/cathamm/MVCmovietracker/MVCmovietracker.csproj",
+  "projectFilePath": "/Users/cathamm/Desktop/MVCmovietracker/MVCmovietracker.csproj",
   "expectedPackageFiles": [
     "/Users/cathamm/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/cathamm/.nuget/packages/messagepack/2.1.152/messagepack.2.1.152.nupkg.sha512",
