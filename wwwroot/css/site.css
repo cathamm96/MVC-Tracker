@@ -16,3 +16,18 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.text-center {
+  padding-top: 100px;
+}
+
+.display-4 {
+  font-weight: 400;
+  font-size: 80px;
+  padding-bottom: 25px;
+}
+
+.navbar-brand {
+  font-size: 30px;
+}
+
